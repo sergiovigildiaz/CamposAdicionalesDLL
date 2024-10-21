@@ -1,0 +1,8 @@
+Nombre de la etiqueta | Tipo de valor
+-------------------------------------
+FECHA=DATETIME
+DECIMAL=DECIMAL
+VARCHAR=VARCHAR
+VARCHAR2=VARCHAR
+TEXTO=TEXT
+IMAGEN=IMAGE

@@ -1,0 +1,12 @@
+C:\Users\practicas\Desktop\Sergio\CamposAdicionales\bin\Debug\CamposAdicionales.dll
+C:\Users\practicas\Desktop\Sergio\CamposAdicionales\bin\Debug\CamposAdicionales.pdb
+C:\Users\practicas\Desktop\Sergio\CamposAdicionales\obj\Debug\CamposAdicionales.csproj.AssemblyReference.cache
+C:\Users\practicas\Desktop\Sergio\CamposAdicionales\obj\Debug\Interop.a3ERPActiveX.dll
+C:\Users\practicas\Desktop\Sergio\CamposAdicionales\obj\Debug\CamposAdicionales.csproj.ResolveComReference.cache
+C:\Users\practicas\Desktop\Sergio\CamposAdicionales\obj\Debug\CamposAdicionales.csproj.CoreCompileInputs.cache
+C:\Users\practicas\Desktop\Sergio\CamposAdicionales\obj\Debug\CamposAdicionales.dll
+C:\Users\practicas\Desktop\Sergio\CamposAdicionales\obj\Debug\CamposAdicionales.pdb
+C:\Users\practicas\Desktop\Sergio\CamposAdicionales\obj\Debug\CamposAdicionales.Vistas.Campos.resources
+C:\Users\practicas\Desktop\Sergio\CamposAdicionales\obj\Debug\CamposAdicionales.csproj.GenerateResource.cache
+C:\Users\practicas\Desktop\Sergio\CamposAdicionales\bin\Debug\Microsoft.mshtml.dll
+C:\Users\practicas\Desktop\Sergio\CamposAdicionales\obj\Debug\CamposAd.5C8352E2.Up2Date
